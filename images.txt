@@ -3,3 +3,6 @@ redis:alpine
 nginx:alpine
 redis:6.0
 bitnami/consul:latest
+kube-controllers-v3.25.0
+calico-cni-v3.25.0
+calico-node-v3.25.0
